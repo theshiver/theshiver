@@ -1,8 +1,6 @@
 ### Hi, I'm Can 👋
 
-Engineering lead at [sahibinden.com](https://www.sahibinden.com) by day, indie app maker by night. Istanbul.
-
-I've been building for the web for 18 years, the last 11 at sahibinden.com, one of Türkiye's largest marketplaces. Today I lead the user platform team: identity and account security, fraud prevention, messaging and communication delivery. Most of my job is people and direction: hiring and growing engineers, shaping architecture across teams, and bringing AI into how we build, review and ship.
+I've been building for the web for 18 years, the last 11 at [sahibinden.com](https://www.sahibinden.com), one of Türkiye's largest marketplaces. Today I lead the user platform team: identity and account security, fraud prevention, messaging and communication delivery. Most of my job is people and direction: hiring and growing engineers, shaping architecture across teams, and bringing AI into how we build, review and ship.
 
 After hours I design, build and ship small apps on my own, end to end. They share one rule: **private by design.** No ads, no tracking, no accounts.
 
