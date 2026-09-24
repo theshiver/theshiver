@@ -8,12 +8,10 @@ After hours I design, build and ship small apps on my own, end to end. They shar
 
 ### What I'm building
 
-| | |
-|---|---|
-| ⏰ **[Slapss](https://slapss-app.com)** | A full-screen meeting reminder for Mac. 1,000+ users, open source. [Mac App Store](https://apps.apple.com/tr/app/slapss/id6767488326) · [source](https://github.com/theshiver/slapss-app) |
-| 📋 **[Pano](https://www.pano-app.com)** | Clipboard history for people who copy code all day. Ships without the network entitlement, so nothing can leave your Mac. |
-| 🖨️ **[Apple Silicon Printer Drivers](https://github.com/theshiver/apple-silicon-printer-drivers)** | Native arm64 macOS drivers for 3,500+ Canon, Epson, HP, Brother and other printers that stopped working when Rosetta went away. Notarized installer, open source. Built in a day with Claude Code. |
-| 💊 **[Kapsül](https://www.kapsul-app.com)** | AI nutrition and medication tracker for iOS and Android. [App Store](https://apps.apple.com/tr/app/kapsul/id6756274787) |
+- **[Slapss](https://slapss-app.com)**: A full-screen meeting reminder for Mac. 1,000+ users, open source. [Mac App Store](https://apps.apple.com/tr/app/slapss/id6767488326) · [source](https://github.com/theshiver/slapss-app)
+- **[Pano](https://www.pano-app.com)**: Clipboard history for people who copy code all day. Ships without the network entitlement, so nothing can leave your Mac.
+- **[Apple Silicon Printer Drivers](https://github.com/theshiver/apple-silicon-printer-drivers)**: Native arm64 macOS drivers for 3,500+ Canon, Epson, HP, Brother and other printers that stopped working when Rosetta went away. Notarized installer, open source. Built in a day with Claude Code.
+- **[Kapsül](https://www.kapsul-app.com)**: AI nutrition and medication tracker for iOS and Android. [App Store](https://apps.apple.com/tr/app/kapsul/id6756274787)
 
 ### Things I care about
 
